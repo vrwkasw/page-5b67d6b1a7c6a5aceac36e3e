@@ -1,0 +1,123 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "507a0f715c5ea74456283134",
+  "owner": "vrwkasw",
+  "repo": "page-5b67d6b1a7c6a5aceac36e3e",
+  "title": "龙猫云",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "5b67d6b1a7c6a5aceac36e3e",
+      "a": "龙猫云",
+      "b": "",
+      "entity": "龙猫云",
+      "brand": "龙猫云",
+      "separator": "",
+      "path": "index.html",
+      "hash": "217f25f359c9cabe5e4ac696bc09719075035dbcb128ada7cb49656aa5ec4850",
+      "content": {
+        "keyword1": "龙猫云",
+        "keyword2": "",
+        "primary_entity": "龙猫云",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "龙猫云提供优质VPN加速器服务，机场订阅和客户端下载。支持多设备，解锁流媒体，游戏加速优化。",
+          "AI_DESCRIPTION": "龙猫云提供优质VPN加速器服务，机场订阅和客户端下载。支持多设备，解锁流媒体，游戏加速优化。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "\n\n\n\n\n\n\n\n\n\n\n<style>\nbody {font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; margin:0; padding:0; line-height:1.6; color:#333; background:#f4f7f9;}\nheader {background:#0a2540; color:#fff; padding:1rem 0;}\n.main-nav {display:flex; justify-content:space-between; align-items:center; max-width:1200px; margin:0 auto; padding:0 1rem;}\n.main-nav a {color:#fff; text-decoration:none; margin:0 1rem;}\n.hero {display:flex; flex-wrap:wrap; background:linear-gradient(135deg, #0a2540, #00d4ff); color:#fff; padding:4rem 0;}\n.hero-content {flex:1; min-width:300px; padding:0 2rem;}\n.hero-graphic {flex:1; min-width:300px; padding:0 2rem; background:rgba(255,255,255,0.1); text-align:center;}\n@media (max-width:768px){.hero {flex-direction:column;}}\nsection {padding:3rem 0; max-width:1200px; margin:0 auto; padding-left:1rem; padding-right:1rem;}\n.section-left {display:flex; flex-wrap:wrap;}\n.section-left > div {flex:1; min-width:300px; padding:2rem;}\n.section-right {display:flex; flex-wrap:wrap; flex-direction:row-reverse;}\n.section-right > div {flex:1; min-width:300px; padding:2rem;}\nh1, h2 {margin:0;}\nh1 {font-size:2.5rem;}\nh2 {font-size:1.8rem;}\np, ul {font-size:1rem;}\n.btn {background:#00d4ff; color:#0a2540; border:none; padding:0.75rem 1.5rem; border-radius:4px; font-weight:bold; text-decoration:none; display:inline-block; margin:1rem 0;}\n.plans-grid {display:grid; grid-template-columns:repeat(auto-fit, minmax(280px,1fr)); gap:1rem;}\n.plans-grid div {border:1px solid #ddd; padding:1rem; border-radius:8px;}\n.faq {margin:1rem 0;}\n@media (max-width:768px){h1{font-size:2rem;}}\n</style>\n\n\n<header>\n<nav class=\"main-nav\">\n<div>龙猫云</div>\n<ul>\n<li><a href=\"#\">首页</a></li>\n<li><a href=\"#plans\">套餐</a></li>\n<li><a href=\"#download\">下载</a></li>\n<li><a href=\"#faq\">FAQ</a></li>\n</ul>\n</nav>\n</header>\n\n<main>\n\n\n<section class=\"hero\">\n<div class=\"hero-content\">\n<h1>龙猫云</h1>\n<p>稳定VPN加速，机场订阅，客户端下载</p>\n<a href=\"#download\" class=\"btn\">立即体验</a>\n</div>\n<div class=\"hero-graphic\">\n<p>高清节点，极速体验</p>\n</div>\n</section>\n\n\n<section class=\"section-left\">\n<div>\n<h2>品牌简介</h2>\n<p>龙猫云是一款专注于网络加速的VPN服务，提供高速、稳定的连接体验。无论是个人用户还是企业团队，都能找到适合自己的方案。</p>\n</div>\n<div>\n<h2>使用场景</h2>\n<p>• 解锁全球流媒体平台<br>• 游戏加速提升网络延迟<br>• 企业远程办公安全保障</p>\n</div>\n</section>\n\n\n<section class=\"section-right\">\n<div>\n<h2>操作说明</h2>\n<ol>\n<li>选择适合的套餐</li>\n<li>完成在线支付</li>\n<li>下载对应客户端</li>\n<li>连接节点开始加速</li>\n</ol>\n</div>\n</section>\n\n\n<section id=\"plans\" class=\"section-left\">\n<h2>套餐对比</h2>\n{{PLANS_HTML}}\n</section>\n\n\n<section class=\"section-right\">\n<h2>用户推荐</h2>\n{{CLIENTS_HTML}}\n</section>\n\n\n<section id=\"faq\" class=\"section-left\">\n<h2>常见问题</h2>\n\n<details class=\"faq\">\n<summary>龙猫云是什么？</summary>\n<p>龙猫云是一款专业的VPN加速器，提供稳定高速的网络连接服务，支持机场订阅和客户端下载。</p>\n</details>\n\n<details class=\"faq\">\n<summary>如何订阅套餐？</summary>\n<p>登录官网，选择套餐进行支付，完成支付后即可获得访问凭证和客户端下载链接。</p>\n</details>\n\n<details class=\"faq\">\n<summary>支持哪些设备？</summary>\n<p>支持Windows、Mac、Android、iOS等多种主流设备，同时在线数量根据套餐而定。</p>\n</details>\n\n<details class=\"faq\">\n<summary>能解锁流媒体平台吗？</summary>\n<p>旗舰版及以上套餐支持全节点原生解锁流媒体，包括Netflix、YouTube等。</p>\n</details>\n\n<details class=\"faq\">\n<summary>售后服务如何？</summary>\n<p>提供7x24工单支持，专业团队在线解答问题，确保您使用无忧。</p>\n</details>\n</section>\n\n</main>\n\n<footer>\n<p>© 2024 龙猫云 所有权利保留 | 官网下载</p>\n</footer>\n\n\n",
+          "hash": "b79e4d7ce5387ec66aa855347feac9e11938a3e5d46b9f33e0fb5a95cb21fe71",
+          "seo": {
+            "title": "龙猫云 - 机场VPN加速器 客户端下载 官网",
+            "keywords": "龙猫云,VPN,机场,加速器,客户端下载,官网下载",
+            "description": "龙猫云提供优质VPN加速器服务，机场订阅和客户端下载。支持多设备，解锁流媒体，游戏加速优化。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "shicdba.cn",
+    "host": "a.shicdba.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804"
+  },
+  "friendlinks": [
+    {
+      "host": "shicdba.cn",
+      "url": "https://shicdba.cn/",
+      "label": "Miru",
+      "apex": "shicdba.cn",
+      "kind": null,
+      "identity": "senbtbdyg/page-5cdad10e63f77c69d8f50b73"
+    },
+    {
+      "host": "00ah6.cn",
+      "url": "https://00ah6.cn/",
+      "label": "SSHUB",
+      "apex": "00ah6.cn",
+      "kind": null,
+      "identity": "erjwrgjj/page-6141714b7a0f264666643c94"
+    },
+    {
+      "host": "01kmph.cn",
+      "url": "https://01kmph.cn/",
+      "label": "WeGo",
+      "apex": "01kmph.cn",
+      "kind": null,
+      "identity": "wbwftxwku/page-680ee6fa2562d6d22ba5a121"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "7693d4c6d837a97814000f5c04846b3c71a5a12055f1d7efd95a23a58dbb218a",
+    "sitemap.xml": "8abe3a39c7042be5180d602c07573a9727db220ceb39f2ca257557b3f25814ed",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "0a717d55f0dffb30dbd8646e861b323e716d7f27a13d95a73e21968cb11bedee",
+    "robots.txt": "b2a62e3a96200b9d07916227789bc0b798327eb1aa6e46fea2697cc470d0abf7",
+    "c313319573a1c693584a120972627bc1.txt": "8ebffda6655161651d191d1dee399fe6e32029852874775d94f790aa1b98dd5e"
+  },
+  "revision": "31958b1ad142a93ffb1b5592b5efac5c9574c2704ab505c64ebb1d3777d7ca20"
+}
